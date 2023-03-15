@@ -4,9 +4,9 @@
 <h3 align="center">A passionate frontend developer from India</h3> -->
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
-- 🌱 I’m currently learning **React.Js**
+- 🌱 I’m currently Mastering **React.Js**
 
-- 💬 Ask me about **React, Development, Coding**
+- 💬 Ask me about **Web Development, Coding**
 
 - 📫 How to reach me **riyazmohammadrj786@gmail.com**
 

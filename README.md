@@ -1,4 +1,4 @@
-![Uploading Screenshot 2023-03-15 095843.png…]()
+![logo](https://github.com/mohammad-aly/mohammad-aly/blob/main/Screenshot%202023-03-15%20095843.png)
 
 <h1 align="center">Hi 👋, I'm Mohammad Riyaz</h1>
 <h3 align="center">A passionate frontend developer from India</h3>

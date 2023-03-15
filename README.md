@@ -1,4 +1,5 @@
-![Header](./your-header-image-name.png)
+![Uploading Screenshot 2023-03-15 095843.png…]()
+
 <h1 align="center">Hi 👋, I'm Mohammad Riyaz</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">

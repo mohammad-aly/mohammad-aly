@@ -1,6 +1,6 @@
 ![logo](https://github.com/mohammad-aly/mohammad-aly/blob/main/Screenshot%202023-03-15%20095843.png)
 
-- 🌱 I’m currently Mastering **React.Js**
+- 🌱 I’m currently Mastering **Java Script**
 
 - 💬 Ask me about **Web Development, Coding**
 
